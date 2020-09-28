@@ -32,7 +32,7 @@ void test_case_2_basic()
   sort( &a, &b );
   ECE2400_CHECK_INT_EQ( a, 5 );
   ECE2400_CHECK_INT_EQ( b, 9 );
-}
+} //
 
 int main( int argc, char* argv[] )
 {
